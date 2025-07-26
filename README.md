@@ -1,6 +1,10 @@
+## BOOTCAMP DESENVOLVEDOR BACKEND IGTI
+
 # 🔐 Facebook Authentication with Node.js and Passport
 
 Este projeto demonstra como integrar autenticação via Facebook usando Node.js, Express e Passport.js.
+
+OBS: A requisição para login redireciona o navegador para o Facebook, onde o usuário deve inserir suas credenciais e autorizar o acesso.
 
 ## 🚀 Tecnologias Utilizadas
 
