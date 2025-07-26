@@ -33,9 +33,9 @@ Obs: Certifique-se de adicionar a URL http://localhost:5000/auth/facebook/callba
 
 ## 🛠️ Instalação
 
-npm start
+npm install
 
 ## Execução
 
-node app.js
+npm start
 
